@@ -14,7 +14,7 @@ a {
 
 .secondary-block {
     color: rgb(255, 255, 255);
-    background-color: #351620;
+    background-color: #00ff2a;
 }
 
 nav {
@@ -61,7 +61,7 @@ header {
 }
 
 header h2 {
-    color: brown;
+    color: rgb(165, 42, 42);
 }
 
 header img {

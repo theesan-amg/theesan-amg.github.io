@@ -1,7 +1,7 @@
 
 let a = 31
 let b = 12
-let sign = "-"
+let sign = "*"
 
 if (sign === "+") {
   console.log(a + b);
